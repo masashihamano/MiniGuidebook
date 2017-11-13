@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Osmena Peak</key>
+	<dict>
+		<key>description</key>
+		<string>セブ島の南部の「ダラゲット(Dalaguete)」にある標高1010メートルのセブで一番高い山。バスで1時間30分。20ペソ</string>
+		<key>image</key>
+		<string>osmena.jpg</string>
+		<key>latitude</key>
+		<string>11.216667</string>
+		<key>longitude</key>
+		<string>125.216667</string>
+	</dict>
+	<key>Mainit Spring</key>
+	<dict>
+		<key>description</key>
+		<string>セブ島南部の「Malabuyoc（マラブヨック）」にある温泉。バスで4時間。20ペソ</string>
+		<key>image</key>
+		<string>mainit.jpg</string>
+		<key>latitude</key>
+		<string>9.644691</string>
+		<key>longitude</key>
+		<string>123.371057</string>
+	</dict>
+	<key>Esoy Hot Spring</key>
+	<dict>
+		<key>description</key>
+		<string>セブ島北部「カットモン（Catmon）」にある完全予約制の温泉。バスで2時間30分。３５０ペソ。</string>
+		<key>image</key>
+		<string>catmon.jpg</string>
+		<key>latitude</key>
+		<string>10.715367</string>
+		<key>longitude</key>
+		<string>123.975274</string>
+	</dict>
+	<key>Moalboal</key>
+	<dict>
+		<key>description</key>
+		<string>バスとトライシクルで所要時間約3時間。綺麗なビーチがある。</string>
+		<key>image</key>
+		<string>moalboal.jpg</string>
+		<key>latitude</key>
+		<string>9.942304</string>
+		<key>longitude</key>
+		<string>123.395009</string>
+	</dict>
+	<key>Ayala</key>
+	<dict>
+		<key>description</key>
+		<string>セブ島のセブシティ中心部にある巨大ショッピングモール。なんでもある。</string>
+		<key>image</key>
+		<string>ayala.jpg</string>
+		<key>latitude</key>
+		<string>10.318086</string>
+		<key>longitude</key>
+		<string>123.905026</string>
+	</dict>
+</dict>
+</plist>
